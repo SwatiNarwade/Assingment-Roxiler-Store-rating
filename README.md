@@ -25,12 +25,14 @@ Roles: System Administrator, Normal User, Store Owner.
   Add new users with (Name, Email, Password, Address).
   Logout.
   
+  
 🔹 Normal User
      Signup + Login.
      Signup fields: Name, Email, Address, Password.
      Update password.
      View list of stores.
      Search stores (by Name & Address).
+     
 
 Store listing shows:
      Store Name
@@ -38,9 +40,11 @@ Store listing shows:
      Overall Rating
      User’s submitted rating
      Option to submit / update rating
+     
 
 Submit ratings (1–5).
 Logout.
+
 
 
 🔹 Store Owner
@@ -50,6 +54,7 @@ Logout.
          List of users who rated their store
          Average rating of store
     Logout.
+    
 
 
 📌 Form Validations
