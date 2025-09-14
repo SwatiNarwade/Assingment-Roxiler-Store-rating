@@ -60,8 +60,6 @@ git clone https://github.com/your-username/Roxiler-Systems-Assignment-StoreRatin
 
 2. Setup Backend
 bash
-Copy
-Edit
 cd backend
 npm install
 npm start
@@ -69,8 +67,6 @@ npm start
 
 3. Setup Frontend
 bash
-Copy
-Edit
 cd ../frontend
 npm install
 npm start
@@ -78,8 +74,6 @@ npm start
 
 Folder Structure
 pgsql
-Copy
-Edit
 Assignment_Roxiler
 ├── backend/
 ├── frontend/
